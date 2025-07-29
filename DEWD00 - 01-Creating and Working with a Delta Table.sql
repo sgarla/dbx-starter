@@ -32,6 +32,11 @@
 -- COMMAND ----------
 
 -- MAGIC %python
+-- MAGIC print("this is sample change)
+
+-- COMMAND ----------
+
+-- MAGIC %python
 -- MAGIC
 -- MAGIC ## Set widget values using the setup script
 -- MAGIC dbutils.widgets.text("module_catalog",learner.catalog_name)
