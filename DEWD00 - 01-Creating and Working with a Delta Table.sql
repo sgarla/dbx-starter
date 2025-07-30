@@ -24,6 +24,10 @@
 
 -- COMMAND ----------
 
+print("This is my dev branch")
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC Input widgets enable you to add parameters to your notebooks. After creating these widgets, you can view the text values for the parameters **module_catalog** and **my_schema** at the top of the notebook. These values specify the module's catalog name and your specific schema.
 -- MAGIC
